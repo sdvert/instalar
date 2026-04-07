@@ -152,17 +152,27 @@ def limpar_tela():
 def mostrar_banner_grande():
     limpar_tela()
     print(r"""
+
  
-                       ROBÔ DE LEADS PARA IPHONE
-                       CRIADO POR INSTAGRAM: @JV.BOTS                                        
-                       YOUTUBE : @jvtrader6595
+        ROBÔ DE LEADS PARA IPHONE
+        CRIADO POR INSTAGRAM: @JV.BOTS                                        
+        YOUTUBE : @jvtrader6595
+
+    Você só receberá atualizações dessa ferramenta
+    Caso tenha comprado de @JV.BOTS e esteja na
+    área de membros da PERFECT ACADEMY
+    Para dúvidas fale com (84) 9849-3595 (JVBOTS)
+        
     """)
 
 def mostrar_banner_pequeno():
     limpar_tela()
     print("===============================================")
+    print("                                              ")
     print("      ROBÔ DE LEADS PARA IPHONE | @JV.BOTS")
     print("      COMPRE SESSÕES EM: T.ME/SESSOESBOT_BOT")
+    print("      CLONA GRUPOS: T.ME/autorepassejvbots_bot")
+    print("                                              ")
     print("===============================================")
 
 # ==========================================
