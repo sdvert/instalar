@@ -152,22 +152,18 @@ def limpar_tela():
 def mostrar_banner_grande():
     limpar_tela()
     print(r"""
-  _     _____    _    ____  ____  ____   ___  ____   ___ _____ 
- | |   | ____|  / \  |  _ \| ___||  _ \ / _ \| __ ) / _ \_   _|
- | |   |  _|   / _ \ | | | |___ \| |_) | | | |  _ \| | | || |  
- | |___| |___ / ___ \| |_| |___) |  _ <| |_| | |_) | |_| || |  
- |_____|_____/_/   \_\____/|____/|_| \_\\___/|____/ \___/ |_|  
-                                                               
-                       PARA IPHONE
-                       CRIADO POR @JV.BOTS
-                       PROGRAMA 01
+ 
+                       ROBÔ DE LEADS PARA IPHONE
+                       CRIADO POR INSTAGRAM: @JV.BOTS                                        
+                       YOUTUBE : @jvtrader6595
     """)
 
 def mostrar_banner_pequeno():
     limpar_tela()
-    print("=" * 55)
-    print("        LEADSROBOT PARA IPHONE | @JV.BOTS")
-    print("=" * 55 + "\n")
+    print("===============================================")
+    print("      ROBÔ DE LEADS PARA IPHONE | @JV.BOTS")
+    print("      COMPRE SESSÕES EM: T.ME/SESSOESBOT_BOT")
+    print("===============================================")
 
 # ==========================================
 # FUNÇÕES AUXILIARES DE PROCESSAMENTO
